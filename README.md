@@ -22,7 +22,7 @@ git status
 | Markdown | Beginner |
 | GitHub | Beginner |
 I am practicing Git every day.
-
+I am learning Git and GitHub.
 
 
 
