@@ -16,12 +16,12 @@ This is *important* for my learning.
 ```bash
 git status
 ```
-
 | Skill | Level |
 |---|---|
 | Git | Beginner |
 | Markdown | Beginner |
 | GitHub | Beginner |
+I am practicing Git every day.
 
 
 
