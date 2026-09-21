@@ -1,9 +1,9 @@
-#My First Markdown File
+# My First Markdown File
 ## About Me
 
-I am learning markdowen and GitHub.
+I am learning Markdown and GitHub.
 
-- I am a biginner
+- I am a beginner
 - I am learning Git
 - I am learning Markdown
 
@@ -16,12 +16,10 @@ This is *important* for my learning.
 ```bash
 git status
 ```
-```bash
-git status
 
 | Skill | Level |
 |---|---|
-| Git | Beginner
+| Git | Beginner |
 | Markdown | Beginner |
 | GitHub | Beginner |
 
