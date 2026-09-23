@@ -25,3 +25,5 @@ I am practicing Git every day.
 I am learning Git and GitHub.
 
 I am practicing Git commands. 
+I am practicing branches.
+I am practicing.
