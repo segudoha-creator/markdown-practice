@@ -24,3 +24,4 @@ git status
 I am practicing Git every day.
 I am learning Git and GitHub.
 
+I am practicing Git commands. 
